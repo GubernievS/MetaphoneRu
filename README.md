@@ -1,3 +1,3 @@
 # MetaphoneRu
-Metaphone (Soundex) Russian  C#
-Русский Metaphone
+Metaphone Russian C#
+Русский Metaphone C#

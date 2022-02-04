@@ -1,4 +1,6 @@
 # MetaphoneRu
-Metaphone Russian C#
-Русский Metaphone C#
-Cравнения строк по их звучанию
+.Net C#
+Metaphone Russian
+Русский Metaphone
+Cравнения строк по их звучанию на русском
+Алгоритмы нечеткого сравнения слов на русском
